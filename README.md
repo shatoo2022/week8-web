@@ -26,6 +26,8 @@ The project is organized into the following files:
 - `about-us.html`: The content for the "About Us" page.
 - `contact-us.html`: The content for the "Contact Us" page.
 
+Site Link: https://shatoo2022.github.io/week8-web/e 
+
 ## Getting Started
 
 To run this project, you don't need any special build tools or local servers. Simply open the `index.html` file in your web browser.
